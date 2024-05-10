@@ -20,7 +20,7 @@
 ![image](https://github.com/MENGXIAOZZZZZ/CSC245-lab2/assets/166454688/ee2e0563-43cb-4652-bfd6-f3741b7e4224)
 
 
-#1. Write a Pandas program to create and display a one-dimensional array-like object containing an array of data using Pandas module.
+#1 Write a Pandas program to create and display a one-dimensional array-like object containing an array of data using Pandas module.
 import pandas as pd
 
 data = pd.Series([10, 20, 30, 40, 50])
